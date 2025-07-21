@@ -208,7 +208,6 @@ header {
     cursor: pointer;
     background-color: #4D5AE5;
     border-radius: 4px;
-    margin-bottom: 48px;
     min-width: 169px;
     height: 56px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
@@ -362,15 +361,6 @@ color: #434455;
 /* #endregion */
 
 /* #region FOOTER */
-
-.footer-container {
-    display: block;
-    flex-wrap: wrap;
-    text-align: left;
-    padding-bottom: 100px;
-    padding-top: 100px;
-
-}
 
 .footer {
     background-color: #2E2F42;
